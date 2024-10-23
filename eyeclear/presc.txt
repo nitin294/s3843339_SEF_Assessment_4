@@ -1,0 +1,20 @@
+Prescription ID: 1
+First Name: Nitin
+Last Name: Bisht
+Address: 123 Lonsdale St, Melbourne, VIC, 3000
+Sphere: 8.0
+Axis: 70.0
+Cylinder: -4.0
+Examination Date: 23-10-24
+Optometrist: Dr. Optometrist
+
+Prescription ID: 2
+First Name: Somebody
+Last Name: Nobody
+Address: 10 Lonsdale St, Narre Warren, VIC, 3805
+Sphere: 2.0
+Axis: 40.0
+Cylinder: 4.0
+Examination Date: 23-10-24
+Optometrist: Dr. EyeSpecialist
+
